@@ -28,3 +28,5 @@ Fabric Loader 0.19.5 is obtained from Fabric's official Maven/meta service: http
 Minecraft and managed Java are downloaded from original launcher metadata. Minecraft is not redistributed. A valid Java Edition account is required.
 
 No RPGCore ClientUI, RPGStudioPack, RPG models, game UI, item textures or authentication data are included.
+
+The premium farm background was generated/edited with OpenAI image_gen from the operator-provided visual reference. It contains no copied RPG pack assets. Native logo/UI shapes are launcher components. The background is embedded in the launcher; logos, panels and buttons are separate native WPF controls.
