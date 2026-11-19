@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "packVersion": "0.2.0",
+  "minecraft": "26.2",
+  "fabricLoader": "0.19.5",
+  "java": 25,
+  "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
+  "server": {
+    "name": "GREENFIELD",
+    "address": "pgsql-punish.tun.ply.gg",
+    "port": 25565
+  },
+  "files": [
+    {
+      "path": "mods/entity_model_features-3.3.12-26.2-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/hyDf8pNd/entity_model_features-3.3.12-26.2-fabric.jar",
+      "hash": "538944a63c2dab5f39d2468a7c977f65c45ed536b8214976dab5a30cc944879fa0bfc3f960233031e4b80f6940edb71edacd17e8949cca7e3ff6bcdf097870ff",
+      "algorithm": "SHA512",
+      "size": 665507,
+      "name": "[EMF] Entity Model Features",
+      "version": "3.3.12-fabric-26.2",
+      "source": "https://modrinth.com/mod/entity-model-features",
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.6-26.2-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p667cMa5/entity_texture_features-7.2.6-26.2-fabric.jar",
+      "hash": "34a8365d78cd81cb3d268c4e8d702bb3fb3eeab4b9ea96c798d9f45772110a169a6e37856990eb50a8018e68b6708f2147ce0971a1988007519674e697909ce6",
+      "algorithm": "SHA512",
+      "size": 793181,
+      "name": "[ETF] Entity Texture Features",
+      "version": "7.2.6-fabric-26.2",
+      "source": "https://modrinth.com/mod/entitytexturefeatures",
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "path": "mods/fabric-api-0.159.0+26.2.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
+      "hash": "4d5d9c3daafe19be187f638f2d6de3db26420b8720ef5a266cfa81f79d9019cab8c86e6d47478bbb0b0ee0b8f769204b72c843caa2e4aabd94adc41f3dafb518",
+      "algorithm": "SHA512",
+      "size": 2535793,
+      "name": "Fabric API",
+      "version": "0.159.0+26.2",
+      "source": "https://modrinth.com/mod/fabric-api",
+      "license": "Apache-2.0"
+    },
+    {
+      "path": "mods/iris-fabric-1.11.4+mc26.2.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/gxZWWnKH/iris-fabric-1.11.4%2Bmc26.2.jar",
+      "hash": "dee955580976aebc92373f5c2d88398ad1019b043c6254a41fe7ab8a6ca3a5ff29d58df2b22ec43a31198beb769e814658eef06fbf980066a2e2c216eeafd32a",
+      "algorithm": "SHA512",
+      "size": 2821616,
+      "name": "Iris Shaders",
+      "version": "1.11.4+26.2-fabric",
+      "source": "https://modrinth.com/mod/iris",
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "path": "mods/reeses-sodium-options-fabric-2.2.4+mc26.2.jar",
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/nnz8j4Hu/reeses-sodium-options-fabric-2.2.4%2Bmc26.2.jar",
+      "hash": "d0d313f1db8f792b3b097dcbce095669c2a638e8995f2ba3dfdc5e517afcbc24de5e4d6c24dd77b3f44558490e7a6b408fa7661a8be52113327a4a560f984edc",
+      "algorithm": "SHA512",
+      "size": 257483,
+      "name": "Reese's Sodium Options",
+      "version": "mc26.2-2.2.4+fabric",
+      "source": "https://modrinth.com/mod/reeses-sodium-options",
+      "license": "MIT"
+    },
+    {
+      "path": "mods/sodium-extra-fabric-0.9.3+mc26.2.jar",
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/Fu02wj4x/sodium-extra-fabric-0.9.3%2Bmc26.2.jar",
+      "hash": "d8caeb19c0439f06c5e885582b19980019c347a9685a8a41e5a94b9afd390a6b82b21c44541cc58b88a8ae1430f4410dff2e488833c900f7ea4705ae171321d7",
+      "algorithm": "SHA512",
+      "size": 482602,
+      "name": "Sodium Extra",
+      "version": "mc26.2-0.9.3+fabric",
+      "source": "https://modrinth.com/mod/sodium-extra",
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "path": "mods/sodium-fabric-0.9.2+mc26.2.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar",
+      "hash": "9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c",
+      "algorithm": "SHA512",
+      "size": 1885572,
+      "name": "Sodium",
+      "version": "mc26.2-0.9.2-fabric",
+      "source": "https://modrinth.com/mod/sodium",
+      "license": "LicenseRef-Polyform-Shield-1.0.0"
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.11.2_26.1+.zip",
+      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xfE3qfr5/FreshAnimations_v1.11.2_26.1%2B.zip",
+      "hash": "c0a529479b9e43465d8b5c5f939711fded92d92fd26053b75fcbe0560046e23655f2d429d108b286cbfceb0470960b5a519ac2311ab108899b7529b76a9e9e30",
+      "algorithm": "SHA512",
+      "size": 778725,
+      "name": "Fresh Animations",
+      "version": "1.11.2",
+      "source": "https://modrinth.com/resourcepack/fresh-animations",
+      "license": "LicenseRef-See-Terms-of-Use-in-Description"
+    },
+    {
+      "path": "shaderpacks/Solas Shader V3.7b.zip",
+      "url": "https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip",
+      "hash": "5c184091c2d9b1d8ee0f4f7eb720fdcd9e2f4aea5a0d7a425927f205ee6d1a3577ad1411176d3705b5945e1f39d81a50cac479ed6f2054d49d90a6002f2878d9",
+      "algorithm": "SHA512",
+      "size": 1252311,
+      "name": "Solas Shader",
+      "version": "3.7b",
+      "source": "https://modrinth.com/shader/solas-shader",
+      "license": "LicenseRef-All-Rights-Reserved"
+    },
+    {
+      "path": "resourcepacks/GREENFIELD-Foundation-0.1.0.zip",
+      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.2.0/GREENFIELD-Foundation-0.1.0.zip",
+      "hash": "64a083ecbf8d809ee1367cd1ef5bedb55c4b62d4050cba224eae267721f9c382",
+      "algorithm": "SHA256",
+      "size": 2276,
+      "name": "GREENFIELD Foundation",
+      "version": "0.1.0",
+      "source": "https://github.com/ttjssd/Greenfield-Distribution",
+      "license": "GREENFIELD original scaffold"
+    }
+  ]
+}
