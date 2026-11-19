@@ -30,3 +30,5 @@ Minecraft and managed Java are downloaded from original launcher metadata. Minec
 No RPGCore ClientUI, RPGStudioPack, RPG models, game UI, item textures or authentication data are included.
 
 The premium farm background was generated/edited with OpenAI image_gen from the operator-provided visual reference. It contains no copied RPG pack assets. Native logo/UI shapes are launcher components. The background is embedded in the launcher; logos, panels and buttons are separate native WPF controls.
+
+GREENFIELD Inventory is an original client-only Fabric mod. Its wood/cream frame was generated with OpenAI image_gen from the operator's UI reference, with transparent exterior and no landscape. The logo is a raster text image, not a redistributed font file. The resource pack only defines greenfield_inventory assets. No vanilla game art, RPG pack art or test-world screenshots are embedded in the inventory pack.

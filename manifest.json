@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "packVersion": "0.4.0",
+  "packVersion": "0.5.0",
   "minecraft": "26.2",
   "fabricLoader": "0.19.5",
   "java": 25,
@@ -113,14 +113,36 @@
     },
     {
       "path": "resourcepacks/GREENFIELD-Foundation-0.1.0.zip",
-      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.4.0/GREENFIELD-Foundation-0.1.0.zip",
+      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.5.0/GREENFIELD-Foundation-0.1.0.zip",
       "hash": "64a083ecbf8d809ee1367cd1ef5bedb55c4b62d4050cba224eae267721f9c382",
       "algorithm": "SHA256",
       "size": 2276,
       "name": "GREENFIELD Foundation",
       "version": "0.1.0",
       "source": "https://github.com/ttjssd/Greenfield-Distribution",
-      "license": "GREENFIELD original scaffold"
+      "license": "GREENFIELD original"
+    },
+    {
+      "path": "mods/greenfield-inventory-0.1.0.jar",
+      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.5.0/greenfield-inventory-0.1.0.jar",
+      "hash": "f0e65ae4709ffd8ecb5bb3ee423433eca8cd9dbf55730b010babf6a9c2dc6c77",
+      "algorithm": "SHA256",
+      "size": 1959755,
+      "name": "GREENFIELD Inventory",
+      "version": "0.1.0",
+      "source": "https://github.com/ttjssd/Greenfield-Distribution",
+      "license": "GREENFIELD original"
+    },
+    {
+      "path": "resourcepacks/GREENFIELD-Inventory-0.1.0.zip",
+      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.5.0/GREENFIELD-Inventory-0.1.0.zip",
+      "hash": "7fea43ac6867304aa67a0b4276e888426247baef08e3e37e1028a5f6ffaf6332",
+      "algorithm": "SHA256",
+      "size": 1947145,
+      "name": "GREENFIELD Inventory Assets",
+      "version": "0.1.0",
+      "source": "https://github.com/ttjssd/Greenfield-Distribution",
+      "license": "GREENFIELD original"
     }
   ]
 }
