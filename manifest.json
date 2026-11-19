@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "packVersion": "0.2.0",
+  "packVersion": "0.3.0",
   "minecraft": "26.2",
   "fabricLoader": "0.19.5",
   "java": 25,
-  "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
+  "microsoftClientId": "",
+  "authMode": "official_launcher",
   "server": {
     "name": "GREENFIELD",
     "address": "pgsql-punish.tun.ply.gg",
@@ -112,7 +113,7 @@
     },
     {
       "path": "resourcepacks/GREENFIELD-Foundation-0.1.0.zip",
-      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.2.0/GREENFIELD-Foundation-0.1.0.zip",
+      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.3.0/GREENFIELD-Foundation-0.1.0.zip",
       "hash": "64a083ecbf8d809ee1367cd1ef5bedb55c4b62d4050cba224eae267721f9c382",
       "algorithm": "SHA256",
       "size": 2276,

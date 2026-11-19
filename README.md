@@ -4,9 +4,9 @@ Independent Windows launcher for the GREENFIELD Minecraft Java 26.2 farming serv
 
 Download: https://github.com/ttjssd/Greenfield-Distribution/releases
 
-Extract the whole launcher ZIP to a writable folder and run GreenfieldLauncher.exe. Keep included DLLs next to the EXE. No Prism Launcher is required. A legitimate Minecraft Java account is required.
+Extract the whole launcher ZIP to a writable folder and run GreenfieldLauncher.exe. Keep included DLLs next to the EXE. No Prism Launcher is required. The official Minecraft Launcher and a legitimate Java account are required.
 
-Phase 0 preview: installation integrity checks are separate from actual authentication, in-game rendering and remote-server play. See release notes for tested scope.
+Game Start prepares files and registers GREENFIELD in the official Minecraft Launcher. Select GREENFIELD there and press Play. Official authentication is used; no separate device-code login. Preview checks are separate from actual rendering and server play.
 
 - manifest.json: pinned client versions, official download URLs and hashes
 - launcher.json: standalone launcher download information
