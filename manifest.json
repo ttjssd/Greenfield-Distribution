@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "packVersion": "0.11.0",
+  "packVersion": "0.12.0",
   "minecraft": "26.2",
   "fabricLoader": "0.19.5",
   "java": 25,
@@ -113,7 +113,7 @@
     },
     {
       "path": "resourcepacks/GREENFIELD-Foundation-0.1.0.zip",
-      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.11.0/GREENFIELD-Foundation-0.1.0.zip",
+      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.12.0/GREENFIELD-Foundation-0.1.0.zip",
       "hash": "64a083ecbf8d809ee1367cd1ef5bedb55c4b62d4050cba224eae267721f9c382",
       "algorithm": "SHA256",
       "size": 2276,
@@ -123,22 +123,22 @@
       "license": "GREENFIELD original"
     },
     {
-      "path": "mods/greenfield-inventory-0.7.0.jar",
-      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.11.0/greenfield-inventory-0.7.0.jar",
-      "hash": "6c648c42a5432c016a63aeb91356eaea91f6a265d498dd6f25b6ca0314aa396c",
+      "path": "mods/greenfield-inventory-0.8.0.jar",
+      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.12.0/greenfield-inventory-0.8.0.jar",
+      "hash": "4584a446f71f83bf0510441f4a918728695ad18b64a79dcb582defd9c1d48c25",
       "algorithm": "SHA256",
-      "size": 10737525,
+      "size": 19491632,
       "name": "GREENFIELD Inventory",
-      "version": "0.7.0",
+      "version": "0.8.0",
       "source": "https://github.com/ttjssd/Greenfield-Distribution",
       "license": "GREENFIELD original"
     },
     {
       "path": "resourcepacks/GREENFIELD-Inventory-0.1.0.zip",
-      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.11.0/GREENFIELD-Inventory-0.1.0.zip",
-      "hash": "a54b04795655e0860cfa7446de94ccf642ab966f3ecdc5193ba0212297f98a2e",
+      "url": "https://github.com/ttjssd/Greenfield-Distribution/releases/download/v0.12.0/GREENFIELD-Inventory-0.1.0.zip",
+      "hash": "f8a237bcca7313bacff05048e00b59a8b15e04696059f48c8723c149e0f90b4c",
       "algorithm": "SHA256",
-      "size": 10643406,
+      "size": 19436841,
       "name": "GREENFIELD Inventory Assets",
       "version": "0.1.0",
       "source": "https://github.com/ttjssd/Greenfield-Distribution",
